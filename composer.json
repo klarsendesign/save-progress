@@ -1,0 +1,10 @@
+{
+    "name": "hrock/ninja-forms-save-progress",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+      "composer/installers": "v1.0.23"
+    }
+}
